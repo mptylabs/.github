@@ -1,6 +1,6 @@
 ## Ecosystem
 
-[![Discord](https://img.shields.io/discord/966090258104062023?label=Discord&logo=discord)](https://discord.gg/GQk8RPfEPG)
+[![Discord](https://img.shields.io/discord/966090258104062023?label=Discord&logo=discord)](https://discord.gg/x83DtdMDZ6)
 
 ### Virtual Reality
 
