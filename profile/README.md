@@ -1,5 +1,7 @@
 ## Ecosystem
 
+[![Discord](https://img.shields.io/discord/966090258104062023?label=Discord&logo=discord)](https://discord.gg/GQk8RPfEPG)
+
 ### Virtual Reality
 
 - [OpenHaptics](https://github.com/openhaptics)
