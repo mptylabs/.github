@@ -4,17 +4,17 @@
 
 ### Virtual Reality
 
-- [OpenHaptics](https://github.com/openhaptics)
+- [SenseShift](https://github.com/senseshift) - Open-source VR accessories framework
+
+### Artificial Intelligence
+
+- [Aicord](https://github.com/mptylabs/aicord) - AI-powered Discord Bot
 
 ### Web3
 
 - [Thrace App](https://github.com/thrace-app)
 - [Subgraphs](https://github.com/leon0399/subgraphs)
 - [Blockchain address static database](https://github.com/thrace-app/addresses)
-
-### Artificial Intelligence
-
-- `TODO`
 
 ### Web2
 
